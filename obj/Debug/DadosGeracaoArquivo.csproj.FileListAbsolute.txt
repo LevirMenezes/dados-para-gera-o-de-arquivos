@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\bin\Debug\DadosGeracaoArquivo.exe.config
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\bin\Debug\DadosGeracaoArquivo.exe
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\bin\Debug\DadosGeracaoArquivo.pdb
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.Form1.resources
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.Properties.Resources.resources
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.exe
+C:\Users\Aluno\source\repos\DadosGeracaoArquivo\obj\Debug\DadosGeracaoArquivo.pdb
